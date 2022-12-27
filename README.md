@@ -5,7 +5,6 @@ ___
 ## Technologies stack:
 - Java 11
 - PostgreSQL
-- Maven
 - Liquibase
 - Swagger
 - Docker
